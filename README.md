@@ -14,8 +14,9 @@ Deploy webserver with Load Balancer And Vm Scale Set
 ![Screenshot 2023-02-25 122151](https://user-images.githubusercontent.com/113555417/221364625-e3e82f3a-e350-4477-bd99-aaaee144dc3a.jpg)
 ![Screenshot 2023-02-25 123406](https://user-images.githubusercontent.com/113555417/221364758-d9ee209f-50fa-448d-b95a-4857a3de68b4.jpg)
 ![Screenshot 2023-02-25 123425](https://user-images.githubusercontent.com/113555417/221364759-26d668d1-d790-4f7f-9bd2-60bb68cc9b22.jpg)
+![Screenshot 2023-02-25 170454](https://user-images.githubusercontent.com/113555417/221365056-3f0aae3c-1cdd-4326-a226-d4931158c3a5.jpg)
 ![Screenshot 2023-02-25 170505](https://user-images.githubusercontent.com/113555417/221364856-6a939beb-c279-44f7-9d59-91e9835f4348.jpg)
-![Screenshot 2023-02-25 170515](https://user-images.githubusercontent.com/113555417/221364860-fb3367c4-8cb0-423e-abcb-cda34c53ca3c.jpg)
+
 
 
 ![Screenshot 2023-02-25 140851](https://user-images.githubusercontent.com/113555417/221364773-7032bda5-802e-4399-90a9-d86d0c8f6f86.jpg)
