@@ -1,12 +1,7 @@
 # Load-Balancer-With-Vm-Scale-Set
 Deploy webserver with Load Balancer And Vm Scale Set
 
-![topology (1)](https://user-images.githubusercontent.com/113555417/221360298-bb6bf9c6-ecfe-48f8-a2cc-c3e35c4f14da.svg)
+![Screenshot 2023-02-25 182443](https://user-images.githubusercontent.com/113555417/221364325-72f405bc-2128-4709-a893-cb5ba580dc9a.jpg)
 
 
-
-
-
-
-![topology (2)](https://user-images.githubusercontent.com/113555417/221360303-ad0c4faa-a37f-4765-b259-e015476a353e.svg)
-
+![Screenshot 2023-02-25 182409](https://user-images.githubusercontent.com/113555417/221364336-f6d90472-22b9-4d63-8a09-efe2b55a9a1f.jpg)
