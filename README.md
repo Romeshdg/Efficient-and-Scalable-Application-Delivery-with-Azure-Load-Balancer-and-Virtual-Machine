@@ -12,3 +12,14 @@ Deploy webserver with Load Balancer And Vm Scale Set
 ![Screenshot 2023-02-25 121633](https://user-images.githubusercontent.com/113555417/221364622-87286a27-7503-4fbd-ba64-71f9109bf4b7.jpg)
 ![Screenshot 2023-02-25 121652](https://user-images.githubusercontent.com/113555417/221364623-d7e091dd-9ad2-445a-a6c2-3eb4663fab5f.jpg)
 ![Screenshot 2023-02-25 122151](https://user-images.githubusercontent.com/113555417/221364625-e3e82f3a-e350-4477-bd99-aaaee144dc3a.jpg)
+![Screenshot 2023-02-25 123406](https://user-images.githubusercontent.com/113555417/221364758-d9ee209f-50fa-448d-b95a-4857a3de68b4.jpg)
+![Screenshot 2023-02-25 123425](https://user-images.githubusercontent.com/113555417/221364759-26d668d1-d790-4f7f-9bd2-60bb68cc9b22.jpg)
+![Screenshot 2023-02-25 170505](https://user-images.githubusercontent.com/113555417/221364856-6a939beb-c279-44f7-9d59-91e9835f4348.jpg)
+![Screenshot 2023-02-25 170515](https://user-images.githubusercontent.com/113555417/221364860-fb3367c4-8cb0-423e-abcb-cda34c53ca3c.jpg)
+
+
+![Screenshot 2023-02-25 140851](https://user-images.githubusercontent.com/113555417/221364773-7032bda5-802e-4399-90a9-d86d0c8f6f86.jpg)
+![Screenshot 2023-02-25 140905](https://user-images.githubusercontent.com/113555417/221364775-fa995d5b-d5b5-4f42-95ed-366b49449be7.jpg)
+![Screenshot 2023-02-25 140918](https://user-images.githubusercontent.com/113555417/221364777-b96c0c51-228f-44d2-b6ab-14b8f18fad8e.jpg)
+![Screenshot 2023-02-25 140930](https://user-images.githubusercontent.com/113555417/221364779-ba505baf-a4d4-4a2f-ad2d-8f6df0c7a836.jpg)
+![Screenshot 2023-02-25 170515](https://user-images.githubusercontent.com/113555417/221364829-729443c5-41fd-44c3-9dcf-b5e216efbd3d.jpg)
