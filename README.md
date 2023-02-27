@@ -8,7 +8,7 @@ Deploy webserver with Load Balancer And Vm Scale Set
 ![Screenshot 2023-02-25 182409](https://user-images.githubusercontent.com/113555417/221364336-f6d90472-22b9-4d63-8a09-efe2b55a9a1f.jpg)
 
 >>>>   # Create Virtual Machine Scale set   <<<<
-  # fill details as per our Project requirnment
+  # Fill details as per Project requirnment
 
 ![Screenshot 2023-02-25 121521](https://user-images.githubusercontent.com/113555417/221364619-a0447a20-a8c0-4781-b5fa-fd42075999e6.jpg)
 ![Screenshot 2023-02-25 121615](https://user-images.githubusercontent.com/113555417/221364621-db137af2-7333-4989-982c-3bbb8e95eeba.jpg)
@@ -25,7 +25,7 @@ Deploy webserver with Load Balancer And Vm Scale Set
 ![Screenshot 2023-02-25 170454](https://user-images.githubusercontent.com/113555417/221365056-3f0aae3c-1cdd-4326-a226-d4931158c3a5.jpg)
 ![Screenshot 2023-02-25 170505](https://user-images.githubusercontent.com/113555417/221364856-6a939beb-c279-44f7-9d59-91e9835f4348.jpg)
 
->>>>  # Create Virtual Machine  with public Ip address <<<< 
+>>>>  # Create Virtual Machine  with Public Ip address <<<< 
 
 ![Screenshot 2023-02-25 140851](https://user-images.githubusercontent.com/113555417/221364773-7032bda5-802e-4399-90a9-d86d0c8f6f86.jpg)
 ![Screenshot 2023-02-25 140905](https://user-images.githubusercontent.com/113555417/221364775-fa995d5b-d5b5-4f42-95ed-366b49449be7.jpg)
@@ -37,18 +37,17 @@ Deploy webserver with Load Balancer And Vm Scale Set
 ![Screenshot 2023-02-25 170515](https://user-images.githubusercontent.com/113555417/221364829-729443c5-41fd-44c3-9dcf-b5e216efbd3d.jpg)
 
 
->>>>  # Access our public Vm through RDP  & install IIS server <<<<
-      # And VMSS instances access through private Ip using RDP 
+>>>>  # Access our public Virtual Machine through RDP  & install IIS server and VMSS instances access through private Ip using RDP <<<<
 ![Screenshot 2023-02-25 132011](https://user-images.githubusercontent.com/113555417/221365332-59a7b6de-72ae-4fe1-b5fb-1d59006f72c4.jpg)
 ![Screenshot 2023-02-25 153705](https://user-images.githubusercontent.com/113555417/221365348-fe2d9d29-4bfb-4ced-b916-ee2021bbae05.jpg)
 
 >>>> # Create Load Balancer  <<<<
 ![Screenshot 2023-02-25 170530](https://user-images.githubusercontent.com/113555417/221365787-6b3e4c96-8ae1-4558-80a2-f939fc07a205.jpg)
- >>>> # FronIp configure <<<<
+ >>>> # Frontend Ip configure <<<<
 ![Screenshot 2023-02-25 170551](https://user-images.githubusercontent.com/113555417/221365792-870eed8c-018a-4dba-bcc7-c685629f3303.jpg)
- >>>> # Backend Poool <<<<
+ >>>> # Backend Pool <<<<
 ![Screenshot 2023-02-25 170609](https://user-images.githubusercontent.com/113555417/221365794-c4de2240-9f9d-48be-bde3-4ea82efd0a30.jpg)
->>>> # add virtual machine <<<<
+>>>> # Add Virtual Machine <<<<
 ![Screenshot 2023-02-25 170626](https://user-images.githubusercontent.com/113555417/221365815-33546f14-66d4-4a5e-8585-04ca8b00c12d.jpg)
 ![Screenshot 2023-02-25 170641](https://user-images.githubusercontent.com/113555417/221365817-631e0eb5-b539-4502-8c2c-65a6143fa847.jpg)
 >>>> # Health Prob <<<<
@@ -68,7 +67,7 @@ Deploy webserver with Load Balancer And Vm Scale Set
    # Custom autoscale 
 ![Screenshot 2023-02-25 173529](https://user-images.githubusercontent.com/113555417/221365965-84453f89-4010-430e-8f39-a624e4b774c5.jpg)
 ![Screenshot 2023-02-25 173711](https://user-images.githubusercontent.com/113555417/221365969-73f17a86-929d-495d-b6d9-6201ff7e7e4f.jpg)
->>>> # scale Rule <<<<
+>>>> # Scale Rule <<<<
 ![Screenshot 2023-02-25 173947](https://user-images.githubusercontent.com/113555417/221365970-6f32058a-a23d-4ccb-8a86-8d5a20561171.jpg)
 ![Screenshot 2023-02-25 174001](https://user-images.githubusercontent.com/113555417/221365972-8746477a-26d5-44a5-afb9-21471b7680ab.jpg)
 ![Screenshot 2023-02-25 174050](https://user-images.githubusercontent.com/113555417/221365974-7d4fab1b-0886-47a0-ba41-4b389c708cc3.jpg)
